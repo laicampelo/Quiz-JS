@@ -75,7 +75,7 @@ falso.addEventListener('click',()=>{
     eventoBotao(false)
 })
 
-//função que controla o progess-bar baseado nas perguntas e acertos.
+//função que controla o progess-bar baseado nas perguntagits e acertos.
 function update() {
     let element = document.querySelector(".progress-bar.progress-bar-striped");   
     let width = 0;
