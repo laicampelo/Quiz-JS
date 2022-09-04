@@ -1,4 +1,2 @@
-* linguist-vendored
-*.html linguist-vendored=false
-script/* linguist-vendored
-
+$ cat .gitattributes
+*.html linguist-languagem=js
