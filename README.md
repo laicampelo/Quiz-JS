@@ -23,7 +23,7 @@
 ### Demostração da Aplicação
 * Ler a perguntas;
 * Selecionar o botão de resposta;
-* <a href="https://laihanne.github.io/Quiz-JS/">Teste o projeto</a>
+* <a href="https://laicampelo.github.io/Quiz-JS/">Teste o projeto</a>
 <img src="./quiz.png">
 
 
